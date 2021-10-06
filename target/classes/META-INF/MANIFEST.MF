@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: moviesApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakhi
+Implementation-Vendor-Id: com.movies
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/moviesApi
+Created-By: Maven Integration for Eclipse
+
